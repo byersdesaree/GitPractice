@@ -1,4 +1,4 @@
 public class Class {
-
-    System.out.printlm("this is a class!.");
+    public void printClass(){
+    System.out.println("this is a class!.");}
 }
